@@ -58,9 +58,7 @@ input{
 .my-card{
     width: 250px;
 }
-::-webkit-scrollbar{
-    display: none;
-}
+
 
 .category-section{
     width:85vw;
